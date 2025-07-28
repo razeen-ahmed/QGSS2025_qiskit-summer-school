@@ -204,8 +204,8 @@ pip install qiskit-serverless
 | Lab-0 | ✅ Complete | 100% | GHZ states, hardware execution |
 | Lab-1 | ✅ Complete | 100% | Quantum foundations, teleportation |  
 | Lab-2 | 🔄 In Progress | 65% | Noise mitigation, QAOA |
-| Lab-3 | 🔄 In Progress | 50% | Quantum chemistry, SQD |
-| Lab-4 | 🔄 In Progress | 40% | Quantum error correction |
+| Lab-3 | 🔄 In Progress | 40% | Quantum chemistry, SQD |
+| Lab-4 | 🔄 In Progress | 35% | Quantum error correction |
 | Functions | 🔄 In Progress | 25% | Industry partnerships |
 
 ## 🌟 Highlights and Achievements
