@@ -225,4 +225,6 @@ Feel free to open issues for:
 
 *This repository represents hands-on learning and experimentation with quantum computing concepts through the prestigious Qiskit Global Summer School 2025 program.*
 
+**Feel free to reach out to me at ahmedshadman12@gmail.com**
+
 **Happy Quantum Computing! 🚀⚛️**
